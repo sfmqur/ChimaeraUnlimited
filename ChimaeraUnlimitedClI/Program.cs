@@ -1,4 +1,4 @@
-﻿namespace ChimaeraUnlimited
+﻿namespace ChimaeraUnlimitedClI
 {
     internal class Program
     {
