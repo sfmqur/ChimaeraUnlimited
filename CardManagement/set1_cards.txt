@@ -1,0 +1,2040 @@
+Name
+Num
+Cost
+Aspects
+Traits
+Power
+Health
+Card Type
+Director Krennic, Aspiring to Authority
+001
+5
+Vigilance,Villainy
+Imperial,Official
+2
+7
+Leader
+Iden Versio, Inferno Squad Commander
+002
+6
+Vigilance,Villainy
+Imperial,Trooper
+4
+4
+Leader
+Chewbacca, Walking Carpet
+003
+7
+Vigilance,Heroism
+Underworld,Wookiee
+2
+9
+Leader
+Chirrut Îmwe, One with the Force
+004
+5
+Vigilance,Heroism
+Force,Rebel
+3
+5
+Leader
+Luke Skywalker, Faithful Friend
+005
+6
+Vigilance,Heroism
+Force,Rebel
+4
+7
+Leader
+Emperor Palpatine, Galactic Ruler
+006
+8
+Command,Villainy
+Force,Imperial,Sith,Official
+4
+10
+Leader
+Grand Moff Tarkin, Oversector Governor
+007
+5
+Command,Villainy
+Imperial,Official
+2
+7
+Leader
+Hera Syndulla, Spectre Two
+008
+6
+Command,Heroism
+Rebel,Twi'lek,Spectre
+4
+6
+Leader
+Leia Organa, Alliance General
+009
+5
+Command,Heroism
+Rebel,Official
+3
+6
+Leader
+Darth Vader, Dark Lord of the Sith
+010
+7
+Aggression,Villainy
+Force,Imperial,Sith
+5
+8
+Leader
+Grand Inquisitor, Hunting the Jedi
+011
+6
+Aggression,Villainy
+Force,Imperial,Inquisitor
+3
+6
+Leader
+IG-88 Ruthless Bounty Hunter
+012
+5
+Aggression,Villainy
+Underworld,Droid,Bounty Hunter
+5
+4
+Leader
+Cassian Andor, Dedicated to the Rebellion
+013
+6
+Aggression,Heroism
+Rebel
+4
+6
+Leader
+Sabine Wren, Galvanized Revolutionary
+014
+4
+Aggression,Heroism
+Mandalorian,Rebel,Spectre
+2
+5
+Leader
+Boba Fett, Collecting the bounty
+015
+5
+Cunning,Villainy
+Underworld,Bounty Hunter
+4
+7
+Leader
+Grand Admiral Thrawn, Patient and Insightful
+016
+6
+Cunning,Villainy
+Imperial,Official
+3
+9
+Leader
+Han Solo, Audacious Smuggler
+017
+6
+Cunning,Heroism
+Underworld
+4
+6
+Leader
+Jyn Erso, Resisting Oppression
+018
+6
+Cunning,Heroism
+Rebel
+4
+7
+Leader
+Security Complex
+019
+-
+Vigilance
+Scarif
+-
+25
+Base
+Capital City
+020
+-
+Vigilance
+Lothal
+-
+30
+Base
+Dagobah Swamp
+021
+-
+Vigilance
+Dagobah
+-
+30
+Base
+Energy Conversion Lab
+022
+-
+Command
+Eadu
+-
+25
+Base
+Command Center
+023
+-
+Command
+Death Star
+-
+30
+Base
+Echo Base
+024
+-
+Command
+Hoth
+-
+30
+Base
+Tarkintown
+025
+-
+Aggression
+Lothal
+-
+25
+Base
+Catacombs of Cadera
+026
+-
+Aggression
+Jedha
+-
+30
+Base
+Kestro City
+027
+-
+Aggression
+Vardos
+-
+30
+Base
+Jedha City
+028
+-
+Cunning
+Jedha
+-
+25
+Base
+Administrator's Tower
+029
+-
+Cunning
+Cloud City
+-
+30
+Base
+Chopper Base
+030
+-
+Cunning
+Atollon
+-
+30
+Base
+Inferno Four, Unforgetting
+031
+2
+Vigilance,Villainy
+Imperial,Vehicle,Fighter
+2
+3
+Unit
+Scout Bike Pursuer
+032
+2
+Vigilance,Villainy
+Imperial,Trooper
+1
+4
+Unit
+Death Trooper
+033
+3
+Vigilance,Villainy
+Imperial,Trooper
+3
+3
+Unit
+Del Meeko, Providing Overwatch
+034
+3
+Vigilance,Villainy
+Imperial,Trooper
+3
+3
+Unit
+Lieutenant Childsen
+035
+4
+Vigilance,Villainy
+Imperial,Official
+2
+2
+Unit
+Gideon Hask, Ruthless Loyalist
+036
+5
+Vigilance,Villainy
+Imperial,Trooper
+5
+5
+Unit
+Academy Defense Walker
+037
+6
+Vigilance,Villainy
+Imperial,Vehicle,Walker
+5
+5
+Unit
+Count Dooku, Darth Tyrannus
+038
+7
+Vigilance,Villainy
+Force,Separatist,Sith
+5
+4
+Unit
+AT-AT Suppressor
+039
+8
+Vigilance,Villainy
+Imperial,Vehicle,Walker
+8
+8
+Unit
+Avenger, Hunting Star Destroyer
+040
+9
+Vigilance,Villainy
+Imperial,Vehicle,Capital Ship
+8
+8
+Unit
+Power of the Dark Side
+041
+3
+Vigilance,Villainy
+Innate
+-
+-
+Event
+Search Your Feelings
+042
+4
+Vigilance,Villainy
+Innate
+-
+-
+Event
+Superlaser Blast
+043
+8
+Vigilance,Villainy
+Disaster,Tactic
+-
+-
+Event
+Restored ARC-170
+044
+2
+Vigilance,Heroism
+Rebel,Vehicle,Fighter
+2
+3
+Unit
+Yoda, Old Master
+045
+3
+Vigilance,Heroism
+Force,Jedi
+2
+4
+Unit
+Consular Security Force
+046
+4
+Vigilance,Heroism
+Rebel,Trooper
+3
+7
+Unit
+Kanan Jarrus, Revealed Jedi
+047
+4
+Vigilance,Heroism
+Force,Jedi,Rebel,Spectre
+4
+5
+Unit
+Vigilant Honor Guards
+048
+5
+Vigilance,Heroism
+Rebel
+4
+6
+Unit
+Obi-Wan Kenobi
+049
+6
+Vigilance,Heroism
+Force,Jedi
+4
+6
+Unit
+The Ghost, Spectre Home Base
+050
+6
+Vigilance,Heroism
+Rebel,Vehicle,Transport,Spectre
+5
+5
+Unit
+Luke Skywalker, Jedi Knight
+051
+7
+Vigilance,Heroism
+Force,Jedi,Rebel
+6
+7
+Unit
+Redemption, Medical Frigate
+052
+8
+Vigilance,Heroism
+Rebel,Vehicle,Capital Ship
+6
+9
+Unit
+Luke's Lightsaber
+053
+2
+Vigilance,Heroism
+Item,Weapon,Lightsaber
+-
+-
+Upgrade
+Jedi Lightsaber
+054
+3
+Vigilance,Heroism
+Item,Weapon,Lightsaber
+-
+-
+Upgrade
+The Force Is With Me
+055
+4
+Vigilance,Heroism
+Force
+-
+-
+Event
+Bendu, The One In The Middle
+056
+6
+Vigilance,Vigilance
+Force,Creature
+4
+7
+Unit
+Protector
+057
+1
+Vigilance,Vigilance
+Innate
+-
+-
+Upgrade
+Vigilance
+058
+4
+Vigilance,Vigilance
+Innate
+-
+-
+Event
+2-1B Surgical Droid
+059
+1
+Vigilance
+Droid
+1
+3
+Unit
+Distant Patroller
+060
+2
+Vigilance
+Fringe,Vehicle,Fighter
+2
+1
+Unit
+Guardian of the Whills
+061
+2
+Vigilance
+Force,Fringe
+2
+2
+Unit
+Regional Governer
+062
+2
+Vigilance
+Imperial,Official
+1
+4
+Unit
+Cloud City Wing Guard
+063
+3
+Vigilance
+Fringe,Trooper
+2
+4
+Unit
+Wilderness Fighter
+064
+3
+Vigilance
+Trooper
+2
+4
+Unit
+Baze Malbus, Temple Guardian
+065
+4
+Vigilance
+Fringe
+2
+5
+Unit
+System Patrol Craft
+066
+4
+Vigilance
+Vehicle,Fighter
+3
+4
+Unit
+Rugged Survivors
+067
+5
+Vigilance
+Fringe
+3
+5
+Unit
+Cargo Juggernaut
+068
+6
+Vigilance
+Vehicle,Tank
+4
+6
+Unit
+Resilient
+069
+1
+Vigilance
+Innate
+-
+-
+Upgrade
+Devotion
+070
+2
+Vigilance
+Innate
+-
+-
+Upgrade
+Electrostaff
+071
+2
+Vigilance
+Item,Weapon
+-
+-
+Upgrade
+Entrenched
+072
+2
+Vigilance
+Condition
+-
+-
+Upgrade
+Moment of Peace
+073
+1
+Vigilance
+Innate
+-
+-
+Event
+Repair
+074
+1
+Vigilance
+Supply
+-
+-
+Event
+It Binds All Things
+075
+2
+Vigilance
+Force
+-
+-
+Event
+Make An Opening
+076
+3
+Vigilance
+Tactic
+-
+-
+Event
+Takedown
+077
+4
+Vigilance
+Tactic
+-
+-
+Event
+Vanquish
+078
+5
+Vigilance
+Tactic
+-
+-
+Event
+Admiral Piett, Captain of the Executor
+079
+2
+Command,Villainy
+Imperial,Official
+1
+4
+Unit
+General Tagge, Concerned Commander
+080
+2
+Command,Villainy
+Imperial,Official
+2
+2
+Unit
+Seasoned Shoretrooper
+081
+2
+Command,Villainy
+Imperial,Trooper
+2
+3
+Unit
+Emperor's Royal Guard
+082
+3
+Command,Villainy
+Imperial
+3
+4
+Unit
+Superlaser Technician
+083
+3
+Command,Villainy
+Imperial
+2
+1
+Unit
+Grand Moff Tarkin
+084
+4
+Command,Villainy
+Imperial,Official
+2
+3
+Unit
+Rukh, Thrawn's Assassin
+085
+5
+Command,Villainy
+Imperial
+3
+6
+Unit
+Gladiator Star Destroyer
+086
+6
+Command,Villainy
+Imperial,Vehicle,Capital Ship
+5
+6
+Unit
+Darth Vader, Commanding the First Legion
+087
+7
+Command,Villainy
+Force,Imperial,Sith
+5
+7
+Unit
+Blizzard Assault AT-AT
+088
+8
+Command,Villainy
+Imperial,Vehicle,Walker
+9
+9
+Unit
+Relentless
+089
+9
+Command,Villainy
+Imperial,Vehicle,Capital Ship
+8
+8
+Unit
+Devastator, Inescapable
+090
+10
+Command,Villainy
+Imperial,Vehicle,Capital Ship
+10
+10
+Unit
+The Emperor's Legion
+091
+2
+Command,Villainy
+Imperial,Supply
+-
+-
+Event
+Overwhelming Barrage
+092
+5
+Command,Villainy
+Tactic
+-
+-
+Event
+Alliance Dispatcher
+093
+1
+Command,Heroism
+Rebel
+1
+2
+Unit
+Bail Organa, Rebel Councilor
+094
+1
+Command,Heroism
+Rebel,Official
+1
+2
+Unit
+Battlefield Marine
+095
+2
+Command,Heroism
+Rebel,Trooper
+3
+3
+Unit
+Mon Mothma, Voice of the Rebellion
+096
+2
+Command,Heroism
+Rebel,Official
+1
+3
+Unit
+Admiral Akbar, Brilliant Strategist
+097
+3
+Command,Heroism
+Rebel,Official
+1
+4
+Unit
+Echo Base Defender
+098
+3
+Command,Heroism
+Rebel,Trooper
+4
+3
+Unit
+Bright Hope, The Last Transport
+099
+4
+Command,Heroism
+Rebel,Vehicle,Transport
+2
+6
+Unit
+Wedge Antilles, Star of the Rebellion
+100
+5
+Command,Heroism
+Rebel
+5
+5
+Unit
+Rogue Squadron Skirmisher
+101
+6
+Command,Heroism
+Rebel,Vehicle,Speeder
+4
+6
+Unit
+Home One, Alliance Flagship
+102
+8
+Command,Heroism
+Rebel,Vehicle,Capital Ship
+7
+7
+Unit
+Rebel Assault
+103
+1
+Command,Heroism
+Rebel,Tactic
+-
+-
+Event
+U-Wing Reinforcement
+104
+7
+Command,Heroism
+Supply
+-
+-
+Event
+General Krell, Heartless Tactician
+105
+5
+Command,Command
+Force,Jedi,Republic
+5
+4
+Unit
+Attack Pattern Delta
+106
+3
+Command,Command
+Tactic
+-
+-
+Event
+Command
+107
+4
+Command,Command
+Innate
+-
+-
+Event
+Vanguard Infantry
+108
+1
+Command
+Trooper
+1
+2
+Unit
+Colonel Yularen, ISB Director
+109
+2
+Command
+Imperial,Official
+2
+3
+Unit
+Frontline Shuttle
+110
+2
+Command
+Vehicle,Transport
+1
+3
+Unit
+Patrolling V-Wing
+111
+2
+Command
+Vehicle,Fighter
+1
+1
+Unit
+Consortium StarViper
+112
+3
+Command
+Fringe,Vehicle,Fighter
+3
+3
+Unit
+Homestead Militia
+113
+3
+Command
+Fringe,Trooper
+3
+4
+Unit
+Escort Skiff
+114
+4
+Command
+Underworld,Vehicle,Speeder
+4
+4
+Unit
+Agent Kallus, Seeking the Rebels
+115
+5
+Command
+Imperial,Trooper
+4
+4
+Unit
+Steadfast Battalion
+116
+5
+Command
+Trooper
+5
+5
+Unit
+Mercenary Company
+117
+6
+Command
+Underworld,Trooper
+5
+5
+Unit
+97th Legion, Keeping the Peace on Sullust
+118
+7
+Command
+Imperial,Trooper
+0
+0
+Unit
+Reinforcement Walker
+119
+8
+Command
+Vehicle,Walker
+6
+9
+Unit
+Academy Training
+120
+2
+Command
+Learned
+-
+-
+Upgrade
+Hardpoint Heavy Blaster
+121
+2
+Command
+Modification,Weapon
+-
+-
+Upgrade
+Traitorous
+122
+5
+Command
+Innate
+-
+-
+Upgrade
+Recruit
+123
+1
+Command
+Supply
+-
+-
+Event
+Tactical Advantage
+124
+1
+Command
+Tactic
+-
+-
+Event
+Prepare for Takeoff
+125
+2
+Command
+Plan
+-
+-
+Event
+Resupply
+126
+3
+Command
+Supply
+-
+-
+Event
+Strike True
+127
+3
+Command
+Tactic
+-
+-
+Event
+Death Star Stormtrooper
+128
+1
+Aggression,Villainy
+Imperial,Trooper
+3
+1
+Unit
+Admiral Ozzel, Overconfident
+129
+2
+Aggression,Villainy
+Imperial,Official
+2
+3
+Unit
+First Legion Snowtrooper
+130
+2
+Aggression,Villainy
+Imperial,Trooper
+2
+3
+Unit
+Fifth Brother, Fear Hunter
+131
+3
+Aggression,Villainy
+Force,Imperial,Inquisitor
+2
+4
+Unit
+Imperial Interceptor
+132
+4
+Aggression,Villainy
+Imperial,Vehicle,Fighter
+3
+2
+Unit
+Seventh Sister, Implacable Inquisitor
+133
+5
+Aggression,Villainy
+Force,Imperial,Inquisitor
+3
+6
+Unit
+Ruthless Raider
+134
+6
+Aggression,Villainy
+Imperial,Verhicle,Capital Ship
+4
+6
+Unit
+Emperor Palpatine
+135
+8
+Aggression,Villainy
+Force,Imperial,Sith,Official
+6
+6
+Unit
+Vader's Lightsaber
+136
+2
+Aggression,Villainy
+Item,Weapon,Lightsaber
+-
+-
+Upgrade
+Fallen Lightsaber
+137
+3
+Aggression,Villainy
+Item,Weapon,Lightsaber
+-
+-
+Upgrade
+Force Lightning
+138
+1
+Aggression,Villainy
+Force
+-
+-
+Event
+Force Choke
+139
+2
+Aggression,Villainy
+Force
+-
+-
+Event
+SpecForce Soldier
+140
+1
+Aggression,Heroism
+Rebel,Trooper
+2
+2
+Unit
+Green Squadron A-Wing
+141
+2
+Aggression,Heroism
+Rebel,Vehicle,Fighter
+1
+3
+Unit
+Sabine Wren, Explosives Artist
+142
+2
+Aggression,Heroism
+Mandalorian,Rebel,Spectre
+2
+3
+Unit
+Fighters For Freedom
+143
+3
+Aggression,Heroism
+Rebel,Trooper
+3
+4
+Unit
+Red Three, Unstoppable
+144
+3
+Aggression,Heroism
+Rebel,Vehicle,Fighter
+2
+3
+Unit
+K-2SO
+145
+4
+Aggression,Heroism
+Rebel,Droid
+4
+4
+Unit
+Zeb Orrelios, Headstrong Warrior
+146
+5
+Aggression,Heroism
+Rebel,Spectre
+5
+5
+Unit
+Black One, Scourge of Starkiller Base
+147
+6
+Aggression,Heroism
+Resistance,Vehicle,Fighter
+4
+4
+Unit
+Guerilla Attack Pod
+148
+6
+Aggression,Heroism
+Rebel,Vehicle,Walker
+4
+6
+Unit
+Mace Windu, Party Crasher
+149
+7
+Aggression,Heroism
+Force,Jedi,Republic
+5
+7
+Unit
+Heroic Sacrifice
+150
+1
+Aggression,Heroism
+Tactic
+-
+-
+Event
+Karabast
+151
+2
+Aggression,Heroism
+Spectre
+-
+-
+Event
+For A Cause I Believe In
+152
+3
+Aggression,Heroism
+Innate
+-
+-
+Event
+Saw Gerrera, Extremist
+153
+4
+Aggression,Aggression
+Rebel
+5
+4
+Unit
+Rallying Cry
+154
+3
+Aggression,Aggression
+Tactic
+-
+-
+Event
+Aggression
+155
+4
+Aggression,Aggression
+Innate
+-
+-
+Event
+Benthic "Two Tubes"
+156
+1
+Aggression
+Rebel,Trooper
+2
+2
+Unit
+Cantina Braggart
+157
+1
+Aggression
+Underworld
+0
+3
+Unit
+Jedha Agitator
+158
+2
+Aggression
+Rebel
+2
+1
+Unit
+Partisan Insurgent
+159
+2
+Aggression
+Rebel,Trooper
+1
+4
+Unit
+Wolffe, Suspicious Veteran
+160
+2
+Aggression
+Fringe,Clone
+3
+2
+Unit
+Ardent Sympathizer
+161
+3
+Aggression
+Trooper
+3
+3
+Unit
+Disabling Fang Fighter
+162
+3
+Aggression
+Mandalorian,Vehicle,Fighter
+3
+2
+Unit
+Star Wing Scout
+163
+3
+Aggression
+Vehicle,Fighter
+4
+1
+Unit
+Wampa
+164
+4
+Aggression
+Creature
+4
+5
+Unit
+Occupier Siege Tank
+165
+5
+Aggression
+Imperial,Vehicle,Tank
+5
+4
+Unit
+Infiltrator's Skill
+166
+1
+Aggression
+Learned
+-
+-
+Upgrade
+Force Throw
+167
+1
+Aggression
+Force
+-
+-
+Event
+Precision Fire
+168
+1
+Aggression
+Tactic
+-
+-
+Event
+Keep Fighting
+169
+2
+Aggression
+Tactic
+-
+-
+Event
+Power Failure
+170
+2
+Aggression
+Tactic
+-
+-
+Event
+Mission Briefing
+171
+3
+Aggression
+Plan
+-
+-
+Event
+Open Fire
+172
+3
+Aggression
+Tactic
+-
+-
+Event
+Bombing Run
+173
+5
+Aggression
+Tactic
+-
+-
+Event
+Smoke and Cinders
+174
+5
+Aggression
+Disaster
+-
+-
+Event
+Forced Surrender
+175
+6
+Aggression
+Plan
+-
+-
+Event
+ISB Agent
+176
+1
+Cunning,Villainy
+Imperial
+1
+3
+Unit
+Bib Fortuna, Jabba's Majordomo
+177
+2
+Cunning,Villainy
+Underworld,Twi'lek
+1
+3
+Unit
+Cartel Spacer
+178
+2
+Cunning,Villainy
+Underworld,Vehicle,Fighter
+2
+3
+Unit
+Boba Fett, Disintegrator
+179
+3
+Cunning,Villainy
+Underworld,Bounty Hunter
+3
+5
+Unit
+Seventh Fleet Defender
+180
+3
+Cunning,Villainy
+Imperial,Vehicle,Fighter
+3
+2
+Unit
+Jabba The Hutt, Cunning Daimyo
+181
+4
+Cunning,Villainy
+Underworld,Hutt
+2
+8
+Unit
+Bossk, Deadly Stalker
+182
+5
+Cunning,Villainy
+Underworld,Bounty Hunter
+4
+5
+Unit
+Bounty Hunter Crew
+183
+6
+Cunning,Villainy
+Underworld,Bounty Hunter
+4
+4
+Unit
+Fett's Firespray, Pursuing the Bounty
+184
+6
+Cunning,Villainy
+Underworld,Vehicle,Transport
+5
+6
+Unit
+Chimaera, Flagship of the Seventh Fleet
+185
+8
+Cunning,Villainy
+Imperial,Vehicle,Capital Ship
+8
+7
+Unit
+No Good to Me Dead
+186
+2
+Cunning,Villainy
+Plan
+-
+-
+Event
+I Had No Choice
+187
+7
+Cunning,Villainy
+Trick
+-
+-
+Event
+Chopper, Metal Menace
+188
+1
+Cunning,Heroism
+Rebel,Droid,Spectre
+1
+3
+Unit
+Leia Organa, Defiant Princess
+189
+2
+Cunning,Heroism
+Rebel,Official
+2
+2
+Unit
+Lothal Insurgent
+190
+2
+Cunning,Heroism
+Rebel
+3
+2
+Unit
+Vanguard Ace
+191
+2
+Cunning,Heroism
+New Republic,Vehicle,Fighter
+1
+1
+Unit
+Ezra Bridger, Resourceful Troublemaker
+192
+3
+Cunning,Heroism
+Force,Rebel,Spectre
+3
+4
+Unit
+Millennium Falcon Piece of Junk
+193
+3
+Cunning,Heroism
+Underworld,Vehicle,Transport
+3
+4
+Unit
+Rogue Operative
+194
+3
+Cunning,Heroism
+Rebel,Trooper
+2
+4
+Unit
+Auzituck Liberator Gunship
+195
+4
+Cunning,Heroism
+Vehicle,Fighter
+3
+4
+Unit
+Chewbacca, Loyal Companion
+196
+5
+Cunning,Heroism
+Underworld,Wookiee
+3
+6
+Unit
+Lando Calrissian, Responsible Businessman
+197
+6
+Cunning,Heroism
+Fringe,Official
+6
+5
+Unit
+Han Solo
+198
+7
+Cunning,Heroism
+Underworld
+6
+6
+Unit
+Bamboozle
+199
+2
+Cunning,Heroism
+Trick
+-
+-
+Event
+Spark of Rebellion
+200
+2
+Cunning,Heroism
+Spectre
+-
+-
+Event
+Bodhi Rook, Imperial Defector
+201
+3
+Cunning,Cunning
+Imperial,Rebel
+3
+3
+Unit
+Cantina Bouncer
+202
+5
+Cunning,Cunning
+Fringe
+3
+5
+Unit
+Cunning
+203
+4
+Cunning,Cunning
+Innate
+-
+-
+Event
+Greedo, Slow on the Draw
+204
+1
+Cunning
+Underworld,Bounty Hunter
+3
+1
+Unit
+Jawa Scavenger
+205
+1
+Cunning
+Fringe,Jawa
+2
+1
+Unit
+Mining Guid TIE Fighter
+206
+1
+Cunning
+Fringe,Vehicle,Fighter
+1
+2
+Unit
+Crafty Smuggler
+207
+2
+Cunning
+Underworld
+2
+2
+Unit
+Outer Rim Headhunter
+208
+2
+Cunning
+Fringe,Vehicle,Fighter
+1
+3
+Unit
+Pirated Starfighter
+209
+2
+Cunning
+Underworld,Vehicle,Fighter
+2
+4
+Unit
+Swoop Racer
+210
+3
+Cunning
+Fringe
+4
+3
+Unit
+Gamorrean Guards
+211
+4
+Cunning
+Underworld
+4
+4
+Unit
+Strafing Gunship
+212
+4
+Cunning
+Underworld,Vehicle,Fighter
+3
+4
+Unit
+Syndicate Lackeys
+213
+5
+Cunning
+Underworld
+5
+4
+Unit
+Smuggling Compartment
+214
+1
+Cunning
+Modification
+-
+-
+Upgrade
+Snapshot Reflexes
+215
+1
+Cunning
+Learned
+-
+-
+Upgrade
+Disarm
+216
+1
+Cunning
+Tactic
+-
+-
+Event
+Shoot First
+217
+1
+Cunning
+Trick
+-
+-
+Event
+Asteroid Sanctuary
+218
+2
+Cunning
+Trick
+-
+-
+Event
+Sneak Attack
+219
+2
+Cunning
+Trick
+-
+-
+Event
+Surprise Strike
+220
+2
+Cunning
+Tactic
+-
+-
+Event
+Outmaneuver
+221
+3
+Cunning
+Tactic
+-
+-
+Event
+Waylay
+222
+3
+Cunning
+Trick
+-
+-
+Event
+Don't Get Cocky
+223
+4
+Cunning
+Gambit
+-
+-
+Event
+Change of Heart
+224
+6
+Cunning
+Gambit
+-
+-
+Event
+TIE/ln Fighter
+225
+1
+Villainy
+Imperial,Vehicle,Fighter
+2
+1
+Unit
+Admiral Motti
+226
+2
+Villainy
+Imperial,Official
+1
+1
+Unit
+Snowtrooper Lieutenant
+227
+2
+Villainy
+Imperial,Trooper
+2
+2
+Unit
+Viper Probe Droid
+228
+2
+Villainy
+Imperial,Droid
+3
+2
+Unit
+Cell Block Guard
+229
+3
+Villainy
+Imperial,Trooper
+3
+3
+Unit
+General Veers, Blizzard Force Commander
+230
+3
+Villainy
+Imperial,Official
+3
+3
+Unit
+TIE Advanced
+231
+4
+Villainy
+Imperial,Vehicle,Fighter
+3
+2
+Unit
+AT-ST
+232
+6
+Villainy
+Imperial,Vehicle,Walker
+6
+7
+Unit
+I am your Father
+233
+3
+Villainy
+Gambit
+-
+-
+Event
+Maximum Firepower
+234
+4
+Villainy
+Imperial,Tactic
+-
+-
+Event
+Galactic Ambition
+235
+7
+Villainy
+Innate
+-
+-
+Event
+R2-D2
+236
+1
+Heroism
+Rebel,Droid
+1
+4
+Unit
+Alliance X-Wing
+237
+2
+Heroism
+Rebel,Vehicle,Fighter
+2
+3
+Unit
+C-3PO
+238
+2
+Heroism
+Rebel,Droid
+1
+4
+Unit
+Rebel Pathfinder
+239
+2
+Heroism
+Rebel,Trooper
+2
+3
+Unit
+Fleet Lieutenant
+240
+3
+Heroism
+Rebel,Trooper
+3
+3
+Unit
+Wing Leader
+241
+3
+Heroism
+Rebel,Vehicle,Fighter
+2
+1
+Unit
+General Dodonna, Massassi Group Commander
+242
+4
+Heroism
+Rebel,Official
+4
+4
+Unit
+Regional Sympathizers
+243
+4
+Heroism
+Rebel
+3
+4
+Unit
+Snowspeeder
+244
+5
+Heroism
+Rebel,Vehicle,Speeder
+3
+6
+Unit
+Medal Ceremony
+245
+0
+Heroism
+Rebel
+-
+-
+Event
+You're my only hope
+246
+3
+Heroism
+Gambit
+-
+-
+Event
+Underworld Thug
+247
+2
+None
+Underworld
+2
+3
+Unit
+Volunteer Soldier
+248
+3
+None
+Trooper
+2
+3
+Unit
+Frontier AT-RT
+249
+4
+None
+Vehicle,Walker
+3
+5
+Unit
+Correlian Freighter
+250
+5
+None
+Vehicle,Transport
+4
+4
+Unit
+Confiscate
+251
+1
+None
+Law
+-
+-
+Event
+Restock
+252
+1
+None
+Supply
+-
+-
+Event
+Experience
+T01
+0
+-
+Learned
+-
+-
+Token Upgrade
+Shield
+T02
+0
+-
+Armor
+-
+-
+-
